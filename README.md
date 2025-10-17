@@ -17,3 +17,22 @@ TDS generated repo
 **Pages URL:** [https://vinaysinghchaudhary1.github.io/multimedia-dashboard-mediax001/](https://vinaysinghchaudhary1.github.io/multimedia-dashboard-mediax001/)
 
 ---
+
+
+## 🔁 Round 2 Update (2025-10-17)
+
+**Brief:** Enhance multimedia dashboard: allow fullscreen toggle for video, add playlist controls for audio, and enable Excel sorting in table.
+
+**Checks:**
+- !!document.querySelector('#video-fullscreen-btn')
+- !!document.querySelector('#audio-playlist')
+- !!document.querySelector('#excel-table')
+- !!document.querySelector('.btn')
+
+**Status:** ✅ Redeployed
+
+**Pages URL:** [https://VinaySinghChaudhary1.github.io/multimedia-dashboard-mediax001/](https://VinaySinghChaudhary1.github.io/multimedia-dashboard-mediax001/)
+
+> ⏳ **Note:** GitHub Pages may take around 10 minutes to fully render and reflect all updates for this round.
+
+---
